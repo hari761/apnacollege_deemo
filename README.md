@@ -1,4 +1,4 @@
 # apnacollege_deemo
 first
 <br>
-Author Hariom Pareta
+Author Hariom apna college
